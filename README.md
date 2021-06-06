@@ -17,3 +17,5 @@ Convert the Simpsons Main Characters dataset to COCO format. After that, finetun
   * Each `annotation` field should contain a list that contains dictionaries with the following keys: `bbox, bbox_mode, category_id, iscrowd, segmentation` (*Note: `category_id` indexing should start from 0 (you can use the original `category_id-1`), and the value of `iscrowd` should be 0.*)
 * Finally, register the datasets and visualize some (e.g. 3) samples (randomly), to check that everything works fine.
   * You have to set the `MetadataCatalog` as well, see: https://detectron2.readthedocs.io/tutorials/datasets.html#metadata-for-datasets
+
+![plot](https://github.com/SaraFattouh/Multi-object-Detection-and-Segmentation/blob/main/Simpsons.png)
