@@ -18,4 +18,8 @@ Convert the Simpsons Main Characters dataset to COCO format. After that, finetun
 * Finally, register the datasets and visualize some (e.g. 3) samples (randomly), to check that everything works fine.
   * You have to set the `MetadataCatalog` as well, see: https://detectron2.readthedocs.io/tutorials/datasets.html#metadata-for-datasets
 
+
+
+
+
 ![plot](https://github.com/SaraFattouh/Multi-object-Detection-and-Segmentation/blob/main/Simpsons.png)
